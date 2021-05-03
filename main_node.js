@@ -6,6 +6,7 @@
 // table aliases are not required, though I've run into problems when I didn't use
 //      I think this was because of a naming problem
 
+
     var inStr, text;
     var sel, upd, wur, frm; // used in searching indexes of strings
     inStr = "SELECT * FROM TableName , , WHERE id=1 Id=2 AND AND WITH UR";
